@@ -1,3 +1,5 @@
+# copyright: 2023 by Sampson
+
 import turtle
 import csv
 R = 200
